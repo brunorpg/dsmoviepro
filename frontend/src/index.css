@@ -3,6 +3,10 @@
 :root {
   --color-primary: #4D41C0;
   --bg-gray: #e8e8e8;
+  --white: #fff;
+  --text-light-gray: #aaa; 
+  --star-yellow: #FFBB3A;
+  --text-gray: #4a4a4a;
 }
 
 * {
@@ -11,7 +15,7 @@
 }
 
 html, body {
-    background-color: var(--bg-gray);
+    background-color: #E5E5E5;
 }
 
 a, a:hover {
